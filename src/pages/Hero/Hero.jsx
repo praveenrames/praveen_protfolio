@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import Prism from "prismjs";
-import "prismjs/components/Prism-javascript";
+import "prismjs/components/prism-javascript";
 import "@/assets/css/tomorrow.css";
 import Meteors from "@/components/ui/meteors";
 import PortfolioPage from "@/pages/About/About";
